@@ -2,4 +2,4 @@
 A simple Android App to wish your friends Happy Birthday!
 
 # Screenshots
-![](images/Screenshot_Birthday Wish.jpg)
+<img src="images/Screenshot_20220202_183446.png" width="100">
